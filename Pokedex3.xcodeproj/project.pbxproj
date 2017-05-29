@@ -12,6 +12,7 @@
 		918836791EDC12FD00943847 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 918836771EDC12FD00943847 /* Main.storyboard */; };
 		9188367B1EDC12FD00943847 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9188367A1EDC12FD00943847 /* Assets.xcassets */; };
 		9188367E1EDC12FD00943847 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9188367C1EDC12FD00943847 /* LaunchScreen.storyboard */; };
+		918836861EDC188300943847 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 918836851EDC188300943847 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		9188367A1EDC12FD00943847 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9188367D1EDC12FD00943847 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9188367F1EDC12FD00943847 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		918836851EDC188300943847 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				918836751EDC12FD00943847 /* ViewController.swift */,
 				918836771EDC12FD00943847 /* Main.storyboard */,
 				9188367A1EDC12FD00943847 /* Assets.xcassets */,
+				918836851EDC188300943847 /* pokemon.csv */,
 				9188367C1EDC12FD00943847 /* LaunchScreen.storyboard */,
 				9188367F1EDC12FD00943847 /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				9188367E1EDC12FD00943847 /* LaunchScreen.storyboard in Resources */,
 				9188367B1EDC12FD00943847 /* Assets.xcassets in Resources */,
+				918836861EDC188300943847 /* pokemon.csv in Resources */,
 				918836791EDC12FD00943847 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -302,6 +306,7 @@
 				918836841EDC12FD00943847 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
